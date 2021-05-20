@@ -20,15 +20,15 @@
 
 We are the first Italian Bitsong validator that follows the project from the very beginning. We are valid for other chains of the Cosmos ecosystem. We have and are developing other useful tools for the Cosmos ecosystem.
 
-## Describe The Proposal (No more than 50 words)
+## Describe The Proposal 
 
 Fan Token Dashboard Monitoring, Create a dashboard for monitoring all the fant tokens of the bitsong ecosystem
 
-## Business Model (Optional for underlying technology)
+## Business Model
 
 Facilitate the search for the purchase of fan tokens and monitor the progress. As a token sniffer it will help the project to use and move BTSG
 
-## Implementation Steps (Optional for economic model)
+## Implementation Steps 
 
 The first step will be to run a test node to scan each block and make the information useful in real time.
 The second step will be to create the dashboard with all the information and the link necessary to participate in the fan token.
