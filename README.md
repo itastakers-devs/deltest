@@ -10,7 +10,7 @@
 
 - [ ] Marketing/Community Building
 
-- [ ] Communication Channels
+- [x] Communication Channels
 
 - [ ] Documentation
 
@@ -18,43 +18,24 @@
 
 ## Background
 
-We are the first Italian Bitsong validator that follows the project from the very beginning. We are valid for other chains of the Cosmos ecosystem. We have and are developing other useful tools for the Cosmos ecosystem.
+We are the first Italian Bitsong validator that follows the project from the beginning.
+We are also active as validators and contributors in other projects of the Cosmos ecosystem. We develop tools and useful content for communities to spread knowledge about the blockchain.
 
 ## Describe The Proposal 
 
-Fan Token Dashboard Monitoring, Create a dashboard for monitoring all the fant tokens of the bitsong ecosystem
-
-## Business Model
-
-Facilitate the search for the purchase of fan tokens and monitor the progress. As a token sniffer it will help the project to use and move BTSG
+Fan Token Dashboard
+We want to develop a dashboard for the community that allows you to monitor the publication of new fan tokens on Bitsong and how to obtain them.
+New listings, information on fan tokens and much more will be available.
 
 ## Implementation Steps 
 
-The first step will be to run a test node to scan each block and make the information useful in real time.
-The second step will be to create the dashboard with all the information and the link necessary to participate in the fan token.
-The final step will be to advertise the fan token through our social channels and other Cosmos channels with which we collaborate.
+We will launch a dedicated node to constantly monitor the chain and events dedicated to Fan Tokens. The node will need to be active and maintained for all the time necessary for development and, most likely, even after to give full resources to the tool.
+We will release a free version of the dashboard that will allow the monitoring of new listings and access to Fan Token info.
+We will talk about Bitsong Fan Tokens through our social networks, through the ITAStakers community and through the other Cosmos projects we collaborate with.
 
 ## Expected Outcome
 
-Attract more users to the Bitsong ecosystem and facilitate learning
-
-## Timetable (Optional)
-
-<!--
-Estimate the timetable of your plan.
-
-| Implementation Steps | Time Consuming |
-| -------------------- | -------------- |
-| step 1               | 2 week         |
-| step 2               | 3 week            |
-| step 3                 ready for fan token start            |
-| Total duration       | 2 months  |
-
--->
-
-## Additional Context (Optional)
-
-<!-- Add any other context about the proposal here. -->
+Making Bitsong and the new Fan Tokens more accessible and better known
 
 ## Contact Information
 
